@@ -67,9 +67,11 @@ This **Flutter-based shopping app** — **Theulluu.com** — offers users a seam
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.theulluu.theulluu&pli=1" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.icons8.com/?size=100&id=62504&format=png&color=000000" width="160" alt="Get it on Google Play"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" 
+         alt="Get it on Google Play" width="200"/>
   </a>
 </p>
+
 
 ---
 
