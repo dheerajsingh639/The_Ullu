@@ -62,6 +62,16 @@ This **Flutter-based shopping app** — **Theulluu.com** — offers users a seam
 - User-friendly design with smooth UI  
 
 ---
+<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/c703d320-cb95-4e0c-8477-7b0f0a15ab13" />
+![6](https://github.com/user-attachments/assets/da243a23-2de7-4c2c-b2a4-4ee32018e5c5)
+<img width="418" height="592" alt="5" src="https://github.com/user-attachments/assets/3fb9ba63-4e57-40b9-ae99-37fc82c64500" />
+<img width="418" height="592" alt="4" src="https://github.com/user-attachments/assets/dc68d560-95ef-45c4-9038-e87e481ba0de" />
+<img width="418" height="592" alt="3" src="https://github.com/user-attachments/assets/95cd5562-0d54-4fac-be9e-b81dccb44b88" />
+<img width="418" height="592" alt="2" src="https://github.com/user-attachments/assets/c4d0bc47-61dc-46b8-9260-54cbe3f14828" />
+<img width="418" height="592" alt="1" src="https://github.com/user-attachments/assets/83f50927-1e0e-4ad7-828d-d1db3819dc0c" />
+<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/c5ff450a-2594-4356-be4b-6d7cc3f92c18" />
+![7](https://github.com/user-attachments/assets/3e43203d-c914-4449-a47c-066921eb6b67)
+---
 
 <h3> 📲 Get it on Play Store </h3>
 
