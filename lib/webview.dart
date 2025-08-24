@@ -10,7 +10,7 @@ void main() {
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    // Enable modern edge-to-edge system UI
+    // Enable modern edge-to-edge system UI changes
     SystemChrome.setEnabledSystemUIMode(SystemUiMode.edgeToEdge);
 
     // Set transparent system bars for full edge-to-edge effect
@@ -91,7 +91,8 @@ class _WebViewScreenState extends State<WebViewScreen> {
     return WillPopScope(
       onWillPop: _handleWillPop,
       child: Scaffold(
-        body: SafeArea( // Prevents WebView content from going under status/nav bars
+        body: SafeArea(
+          // Prevents WebView content from going under status/nav bars
           child: WebViewWidget(controller: _controller),
         ),
       ),
