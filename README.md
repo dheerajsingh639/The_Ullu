@@ -62,15 +62,15 @@ This **Flutter-based shopping app** — **Theulluu.com** — offers users a seam
 - User-friendly design with smooth UI  
 
 ---
-<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/c703d320-cb95-4e0c-8477-7b0f0a15ab13" />
-<img width="418" height="592" alt="5" src="https://github.com/user-attachments/assets/3fb9ba63-4e57-40b9-ae99-37fc82c64500" />
-<img width="418" height="592" alt="4" src="https://github.com/user-attachments/assets/dc68d560-95ef-45c4-9038-e87e481ba0de" />
-<img width="418" height="592" alt="3" src="https://github.com/user-attachments/assets/95cd5562-0d54-4fac-be9e-b81dccb44b88" />
-<img width="418" height="592" alt="2" src="https://github.com/user-attachments/assets/c4d0bc47-61dc-46b8-9260-54cbe3f14828" />
 <img width="418" height="592" alt="1" src="https://github.com/user-attachments/assets/83f50927-1e0e-4ad7-828d-d1db3819dc0c" />
-<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/c5ff450a-2594-4356-be4b-6d7cc3f92c18" />
+<img width="418" height="592" alt="2" src="https://github.com/user-attachments/assets/c4d0bc47-61dc-46b8-9260-54cbe3f14828" />
+<img width="418" height="592" alt="3" src="https://github.com/user-attachments/assets/95cd5562-0d54-4fac-be9e-b81dccb44b88" />
+<img width="418" height="592" alt="4" src="https://github.com/user-attachments/assets/dc68d560-95ef-45c4-9038-e87e481ba0de" />
+<img width="418" height="592" alt="5" src="https://github.com/user-attachments/assets/3fb9ba63-4e57-40b9-ae99-37fc82c64500" />
 <img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/04acb844-ff77-434f-b170-ad2cf4034ab0" />
-<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/5cde7d7a-1ae3-44fe-afaf-e5bc818859f5" />
+<img width="418" height="592" alt="7" src="https://github.com/user-attachments/assets/5cde7d7a-1ae3-44fe-afaf-e5bc818859f5" />
+<img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/c5ff450a-2594-4356-be4b-6d7cc3f92c18" />
+<img width="1920" height="1080" alt="9" src="https://github.com/user-attachments/assets/c703d320-cb95-4e0c-8477-7b0f0a15ab13" />
 
 ---
 
